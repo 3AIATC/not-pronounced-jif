@@ -1,6 +1,7 @@
 # not-pronounced-jif: Batch Video to Optimised GIF Converter
 
 A Streamlit web application that converts MP4 videos into high quality, highly optimised GIFs. It processes multiple files simultaneously and bundles the output into a single ZIP archive for easy downloading.
+
 Remember folks: GIF is pronounced with a hard G (unless you pronounce "graphical" as "jraphical", in which case, carry-on, I don't make the rules).
 
 ## Features
